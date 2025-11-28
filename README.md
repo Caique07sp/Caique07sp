@@ -111,8 +111,3 @@ Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na á
 <br>
 <br>
 <br>
-
-### 🌐 Meu trabalho como Desenvolvedor Web
-Atuo como desenvolvedor web autônomo, criando sites modernos, responsivos e profissionais para pequenos negócios.  
-Em breve, tudo isso estará organizado no meu Instagram profissional: **@clm_digital_web** — onde vou postar projetos, layouts, dicas e meus trabalhos finalizados.
-
