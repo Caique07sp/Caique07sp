@@ -108,7 +108,9 @@ Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na á
 
 </p>
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 ### 🌐 Meu trabalho como Desenvolvedor Web
 Atuo como desenvolvedor web autônomo, criando sites modernos, responsivos e profissionais para pequenos negócios.  
