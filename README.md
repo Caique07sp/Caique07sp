@@ -8,24 +8,7 @@ Atualmente estou no nível básico, mas estudo e pratico todos os dias para evol
 
 Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na área de tecnologia e, em breve, iniciar a faculdade de Engenharia de Software, para me aprofundar ainda mais no desenvolvimento e arquitetura de sistemas. Também compartilho meus trabalhos e projetos no meu Instagram profissional, onde publico conteúdos sobre criação de sites, desenvolvimento web e trabalhos que realizo como desenvolvedor. Ele se chama "[CLM Digital Web](https://www.instagram.com/clm_digital_web?igsh=a2x0NTMxeG94eTE%3D&utm_source=qr)".
 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
+   ---
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -104,21 +87,30 @@ Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na á
 
 
 ### 📊 Estatísticas
-
 <p>
+
+  <!-- Estatísticas do GitHub -->
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 12px;"
+    src="https://github-readme-stats.vercel.app/api?username=CaiqueMartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <!-- Tecnologias mais usadas -->
+  <img 
+    align="left"
+    alt="Linguagens Mais Usadas"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueMartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
+
+<br><br><br>
+
+### 🌐 Meu trabalho como Desenvolvedor Web
+Atuo como desenvolvedor web autônomo, criando sites modernos, responsivos e profissionais para pequenos negócios.  
+Em breve, tudo isso estará organizado no meu Instagram profissional: **@clm_digital_web** — onde vou postar projetos, layouts, dicas e meus trabalhos finalizados.
+
