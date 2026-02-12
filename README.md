@@ -6,7 +6,7 @@ Sou o Caique Martins, desenvolvedor FullStack Júnior em início de carreira. Co
 
 Atualmente estou no nível básico, mas estudo e pratico todos os dias para evoluir. Tenho interesse tanto no Front-end, criando interfaces modernas e responsivas, quanto no Back-end, trabalhando com lógica, banco de dados e funcionalidades de sistemas.
 
-Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na área de tecnologia e, em breve, iniciar a faculdade de Engenharia de Software, para me aprofundar ainda mais no desenvolvimento e arquitetura de sistemas. Também compartilho meus trabalhos e projetos no meu Instagram profissional, onde publico conteúdos sobre criação de sites, desenvolvimento web e trabalhos que realizo como desenvolvedor. Chama-se "[CLM Digital Web](https://www.instagram.com/clm_digital_web?igsh=a2x0NTMxeG94eTE%3D&utm_source=qr)".
+Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na área de tecnologia e, em breve, iniciar a faculdade de Engenharia de Software, para me aprofundar ainda mais no desenvolvimento e arquitetura de sistemas. Também compartilho meus trabalhos e projetos no meu Instagram profissional, onde publico conteúdos sobre criação de sites, desenvolvimento web e trabalhos que realizo como desenvolvedor.
 
    ---
 ### 🤖 Linguagens e Tecnologias
