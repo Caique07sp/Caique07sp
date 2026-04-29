@@ -7,6 +7,8 @@ Sou Caique Martins, desenvolvedor Full Stack Júnior e estudante de Engenharia d
 Tenho experiência com desenvolvimento Front-end e Back-end, criando interfaces modernas, responsivas e também trabalhando com lógica, banco de dados e funcionalidades de sistemas. Atualmente, sigo evoluindo minhas habilidades por meio de estudos diários e desenvolvimento de projetos práticos.
 
 Meu objetivo é crescer na área de tecnologia, me especializar em desenvolvimento de sistemas e, futuramente, atuar em projetos cada vez mais robustos e profissionais.
+
+   
    ---
 ### 🤖 Linguagens e Tecnologias
 <img 
