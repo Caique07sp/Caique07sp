@@ -2,12 +2,11 @@
 
 Desenvolvedor FullStack Júnior
 
-Sou o Caique Martins, desenvolvedor FullStack Júnior em início de carreira. Concluí o Ensino Médio e o curso técnico de Informática para Internet pela ETEC, onde tive meus primeiros contatos com programação, desenvolvimento web e criação de interfaces.
+Sou Caique Martins, desenvolvedor Full Stack Júnior e estudante de Engenharia da Computação. Concluí o Ensino Médio integrado e o curso técnico de Informática para Internet pela ETEC, onde tive meus primeiros contatos com programação, desenvolvimento web e criação de interfaces.
 
-Atualmente estou no nível básico, mas estudo e pratico todos os dias para evoluir. Tenho interesse tanto no Front-end, criando interfaces modernas e responsivas, quanto no Back-end, trabalhando com lógica, banco de dados e funcionalidades de sistemas.
+Tenho experiência com desenvolvimento Front-end e Back-end, criando interfaces modernas, responsivas e também trabalhando com lógica, banco de dados e funcionalidades de sistemas. Atualmente, sigo evoluindo minhas habilidades por meio de estudos diários e desenvolvimento de projetos práticos.
 
-Sou dedicado, curioso e gosto de aprender fazendo. Meu objetivo é crescer na área de tecnologia e, em breve, iniciar a faculdade de Engenharia de Software, para me aprofundar ainda mais no desenvolvimento e arquitetura de sistemas. Também compartilho meus trabalhos e projetos no meu Instagram profissional, onde publico conteúdos sobre criação de sites, desenvolvimento web e trabalhos que realizo como desenvolvedor.
-
+Meu objetivo é crescer na área de tecnologia, me especializar em desenvolvimento de sistemas e, futuramente, atuar em projetos cada vez mais robustos e profissionais.
    ---
 ### 🤖 Linguagens e Tecnologias
 <img 
