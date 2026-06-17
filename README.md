@@ -1,12 +1,17 @@
 #👨🏻‍💻 Caique Martins
 
-Desenvolvedor FullStack Júnior
+## Desenvolvedor Full Stack Júnior
 
-Sou Caique Martins, desenvolvedor Full Stack Júnior e estudante de Engenharia da Computação. Concluí o Ensino Médio integrado e o curso técnico de Informática para Internet pela ETEC, onde tive meus primeiros contatos com programação, desenvolvimento web e criação de interfaces.
+Olá! Sou Caique Martins, Desenvolvedor Full Stack Júnior e estudante de Engenharia da Computação.
 
-Tenho experiência com desenvolvimento Front-end e Back-end, criando interfaces modernas, responsivas e também trabalhando com lógica, banco de dados e funcionalidades de sistemas. Atualmente, sigo evoluindo minhas habilidades por meio de estudos diários e desenvolvimento de projetos práticos.
+Concluí o **Ensino Médio** e também o **curso técnico de Informática para Internet pela ETEC**, onde desenvolvi uma base sólida em programação, desenvolvimento web e banco de dados.
 
-Meu objetivo é crescer na área de tecnologia, me especializar em desenvolvimento de sistemas e, futuramente, atuar em projetos cada vez mais robustos e profissionais.
+Tenho experiência no desenvolvimento de aplicações **Front-end e Back-end**, criando interfaces modernas, responsivas e funcionais, além de implementar APIs, integrações e sistemas completos. Busco constantemente aprimorar minhas habilidades por meio de estudos diários e projetos práticos.
+
+Atualmente, estudo tecnologias como Node.js, React, PHP, Laravel e MySQL, sempre buscando aplicar boas práticas de desenvolvimento e arquitetura de software.
+
+Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo para projetos inovadores e evoluindo continuamente como desenvolvedor.
+
 
    
    ---
@@ -96,7 +101,7 @@ Meu objetivo é crescer na área de tecnologia, me especializar em desenvolvimen
     alt="GitHub Stats"
     height="200"
     style="padding-right: 12px;"
-    src="https://github-readme-stats.vercel.app/api?username=CaiqueMartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <!-- Tecnologias mais usadas -->
@@ -104,7 +109,7 @@ Meu objetivo é crescer na área de tecnologia, me especializar em desenvolvimen
     align="left"
     alt="Linguagens Mais Usadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueMartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
