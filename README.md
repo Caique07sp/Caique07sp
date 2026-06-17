@@ -4,9 +4,9 @@
 
 Olá! Sou Caique Martins, Desenvolvedor Full Stack Júnior e estudante de Engenharia da Computação.
 
-Concluí o **Ensino Médio** e também o **curso técnico de Informática para Internet pela ETEC**, onde desenvolvi uma base sólida em programação, desenvolvimento web e banco de dados.
+Concluí o Ensino Médio e também o curso técnico de Informática para Internet pela ETEC, onde desenvolvi uma base sólida em programação, desenvolvimento web e banco de dados.
 
-Tenho experiência no desenvolvimento de aplicações **Front-end e Back-end**, criando interfaces modernas, responsivas e funcionais, além de implementar APIs, integrações e sistemas completos. Busco constantemente aprimorar minhas habilidades por meio de estudos diários e projetos práticos.
+Tenho experiência no desenvolvimento de aplicações Front-end e Back-end, criando interfaces modernas, responsivas e funcionais, além de implementar APIs, integrações e sistemas completos. Busco constantemente aprimorar minhas habilidades por meio de estudos diários e projetos práticos.
 
 Atualmente, estudo tecnologias como Node.js, React, PHP, Laravel e MySQL, sempre buscando aplicar boas práticas de desenvolvimento e arquitetura de software.
 
@@ -96,13 +96,12 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, contribui
 <p>
 
   <!-- Estatísticas do GitHub -->
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 12px;"
-    src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+ <img 
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&locale=pt-br"
+/>
 
   <!-- Tecnologias mais usadas -->
   <img 
