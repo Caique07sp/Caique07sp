@@ -96,11 +96,11 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, contribui
 <p>
 
   <!-- Estatísticas do GitHub -->
- <img 
+ <img
   align="left"
   alt="GitHub Stats"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"
 />
 
   <!-- Tecnologias mais usadas -->
