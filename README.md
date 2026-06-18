@@ -10,7 +10,7 @@ Concluí o curso técnico de **Informática para Internet pela ETEC**, onde dese
 
 Atualmente estudo e desenvolvo projetos utilizando **Node.js, React, PHP, Laravel e MySQL**, buscando evoluir continuamente por meio de projetos práticos e desafios reais.
 
-💡 **Atualmente estou aprofundando meus conhecimentos em Back-end, React e Segurança da Informação.**
+
 
 ---
 
