@@ -1,118 +1,91 @@
-#👨🏻‍💻 Caique Martins
+# 👨🏻‍💻 Caique Martins
 
-## Desenvolvedor Full Stack Júnior
+## 🚀 Desenvolvedor Full Stack Júnior
 
-Olá! Sou Caique Martins, Desenvolvedor Full Stack Júnior e estudante de Engenharia da Computação.
+Olá! Seja bem-vindo ao meu perfil. 👋
 
-Concluí o Ensino Médio e também o curso técnico de Informática para Internet pela ETEC, onde desenvolvi uma base sólida em programação, desenvolvimento web e banco de dados.
+Sou **Caique Martins**, Desenvolvedor Full Stack Júnior e estudante de **Engenharia da Computação**.
 
-Tenho experiência no desenvolvimento de aplicações Front-end e Back-end, criando interfaces modernas, responsivas e funcionais, além de implementar APIs, integrações e sistemas completos. Busco constantemente aprimorar minhas habilidades por meio de estudos diários e projetos práticos.
+Concluí o curso técnico de **Informática para Internet pela ETEC**, onde desenvolvi conhecimentos sólidos em desenvolvimento web, banco de dados e programação.
 
-Atualmente, estudo tecnologias como Node.js, React, PHP, Laravel e MySQL, sempre buscando aplicar boas práticas de desenvolvimento e arquitetura de software.
+Atualmente estudo e desenvolvo projetos utilizando **Node.js, React, PHP, Laravel e MySQL**, buscando evoluir continuamente minhas habilidades através de projetos práticos e desafios reais.
 
-Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo para projetos inovadores e evoluindo continuamente como desenvolvedor.
+Meu objetivo é construir soluções modernas, escaláveis e eficientes, contribuindo para projetos inovadores e crescendo profissionalmente na área de tecnologia.
 
+---
 
-   
-   ---
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="ReactJS" 
-    title="ReactJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="Banco de Dados" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+# 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+<img align="left" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+
+<img align="left" alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+
+<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+
+<img align="left" alt="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+
+<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<br><br>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
 />
 
-<br/><br/>
-
-
-### 📊 Estatísticas
-<p>
-
-  <!-- Estatísticas do GitHub -->
- <img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&layout=compact&theme=tokyonight&langs_count=8"
 />
-
-  <!-- Tecnologias mais usadas -->
-  <img 
-    align="left"
-    alt="Linguagens Mais Usadas"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
 
 </p>
 
-<br>
-<br>
-<br>
+---
+
+# 📌 Projetos em Destaque
+
+* 📋 **To-Do App Full Stack**
+
+  * React
+  * Node.js
+  * Express
+  * JWT
+  * MySQL
+
+* 🐶 **PetConnection**
+
+  * Plataforma para adoção de pets
+
+* 🌐 **Sites Institucionais e Landing Pages**
+
+* ⚙️ **APIs REST utilizando Node.js e Express**
+
+---
+
+# 🎯 Objetivo
+
+Busco minha primeira oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa aplicar meus conhecimentos, aprender continuamente e contribuir com soluções inovadoras.
+
+---
+
+# 📫 Contato
+
+💼 **LinkedIn:** https://www.linkedin.com/in/caique-martins
+
+📧 **E-mail:** (adicione seu e-mail)
+
+⭐ Obrigado pela visita ao meu perfil!
