@@ -32,18 +32,11 @@ Atualmente estudo e desenvolvo projetos utilizando **Node.js, React, PHP, Larave
 
 # 📊 Estatísticas
 
+# 📊 Estatísticas
+
 <p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&layout=compact&theme=tokyonight&langs_count=8"
-/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 ---
