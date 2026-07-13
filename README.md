@@ -32,10 +32,6 @@ Atualmente estudo e desenvolvo projetos utilizando **Node.js, React, PHP, Larave
 
 # 📊 Estatísticas
 
-# 📊 Estatísticas
-
-# 📊 Estatísticas
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas Caique" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caique07sp&theme=tokyonight&locale=pt_BR" alt="Sequência de Commits" />
