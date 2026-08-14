@@ -85,10 +85,38 @@ Olá! Sou o **Caique Martins**, desenvolvedor focado em criar soluções complet
 
 ---
 
-## 🎯 Status Atual
+## 🎯 Atualmente
 
 ```text
 🔭 Buscando oportunidades como Desenvolvedor Full Stack Júnior
-🌱 Aprimorando conhecimentos em ecossistemas React, Node.js e Laravel
+🌱 Aprimorando conhecimentos em React, Node.js e Laravel
 📚 Cursando Engenharia da Computação
-💡 Construindo projetos reais e escaláveis
+💡 Criando projetos para aprender e evoluir
+🚀 Buscando transformar conhecimento em soluções reais
+```
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-caique-martins">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://caiqueportifolioonline.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Caique07sp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💻 Construindo, aprendendo e evoluindo todos os dias.</i>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
