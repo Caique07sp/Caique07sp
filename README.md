@@ -70,11 +70,11 @@ Atualmente trabalho principalmente com:
 
 📊 GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caique07sp&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caique07sp&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
-<p align="center"> <a href="https://github.com/Caique07sp"> <img src="https://img.shields.io/github/followers/Caique07sp?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/Caique07sp"> <img src="https://img.shields.io/github/stars/Caique07sp?style=for-the-badge&logo=github" /> </a> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caique07sp&theme=tokyonight" alt="GitHub Profile Details" /> </p>
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caique07sp&theme=tokyonight" width="49%" alt="Repositórios por linguagem" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caique07sp&theme=tokyonight" width="49%" alt="Linguagens com mais commits" /> </p>
 ---
 
 ## 🚀 Projetos em Destaque
