@@ -1,75 +1,163 @@
 # 👨🏻‍💻 Caique Martins
 
-## 🚀 Desenvolvedor Full Stack Júnior
-
-Olá! Seja bem-vindo ao meu perfil. 👋
-
-Sou **Caique Martins**, Desenvolvedor Full Stack Júnior e estudante de **Engenharia da Computação**.
-
-Concluí o curso técnico de **Informática para Internet pela ETEC**, onde desenvolvi conhecimentos em desenvolvimento web, banco de dados e programação.
-
-Atualmente estudo e desenvolvo projetos utilizando **JavaScript, React, Node.js, PHP, Laravel e MySQL**, buscando evoluir continuamente por meio de projetos práticos e desafios reais.
-
----
-
-## 🤖 Linguagens e Tecnologias
+### 🚀 Desenvolvedor Full Stack Júnior | Estudante de Engenharia da Computação
 
 <p align="left">
-  <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <a href="https://github.com/Caique07sp">
+    <img src="https://img.shields.io/github/followers/Caique07sp?label=Seguidores&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Caique07sp">
+    <img src="https://img.shields.io/github/stars/Caique07sp?label=Stars&style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 👋 Sobre mim
+
+Olá! Eu sou **Caique Martins**, Desenvolvedor Full Stack Júnior e estudante de **Engenharia da Computação**.
+
+🎓 Técnico em **Informática para Internet pela ETEC**
+💻 Focado em **Desenvolvimento Web e Full Stack**
+🚀 Sempre buscando transformar ideias em projetos reais
+📚 Atualmente aprimorando meus conhecimentos em desenvolvimento de software
+
+Tenho experiência com desenvolvimento de aplicações web, APIs REST, bancos de dados e interfaces modernas.
+
+Atualmente trabalho principalmente com:
+
+`JavaScript` · `React` · `Node.js` · `PHP` · `Laravel` · `MySQL`
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Front-end
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+</p>
+
+### ⚙️ Back-end
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" title="Laravel"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+</p>
+
+### 🔧 Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" title="NPM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="Estatísticas do GitHub do Caique Martins"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&layout=compact&theme=tokyonight&langs_count=8" 
-    alt="Linguagens mais utilizadas"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Caique07sp&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
 
+> 🔐 **Métricas privadas inclusas** — as estatísticas consideram também contribuições de repositórios privados quando disponíveis.
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-* 📋 **To-Do App Full Stack** — React • Node.js • Express • JWT • MySQL
-* 🐶 **PetConnection** — Plataforma para adoção de pets
-* 🌐 **Sites Institucionais e Landing Pages**
-* ⚙️ **APIs REST** — Node.js • Express
+### 📋 To-Do App Full Stack
 
----
+Aplicação completa para gerenciamento de tarefas.
 
-## 🎯 Objetivo
-
-Busco uma oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa aplicar meus conhecimentos, continuar evoluindo profissionalmente e contribuir para projetos e soluções de impacto.
+**Tecnologias:** React · Node.js · Express · JWT · MySQL
 
 ---
 
-## 📫 Contato
+### 🐶 PetConnection
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/dev-caique-martins
+Plataforma voltada para **adoção e conexão entre pessoas e animais**.
 
-🌐 **Portfólio:**
-https://caiqueportifolioonline.netlify.app/
+**Tecnologias:** JavaScript · PHP · MySQL
 
 ---
 
-⭐ Obrigado pela visita ao meu perfil!
+### 🌐 Sites Institucionais
+
+Desenvolvimento de **sites institucionais, landing pages e páginas comerciais**, com foco em responsividade e experiência do usuário.
+
+**Tecnologias:** HTML · CSS · JavaScript · Bootstrap
+
+---
+
+### ⚙️ APIs REST
+
+Desenvolvimento e integração de APIs para aplicações web.
+
+**Tecnologias:** Node.js · Express · PHP · Laravel · MySQL
+
+---
+
+## 🎯 Atualmente
+
+```text
+🔭 Buscando oportunidades como Desenvolvedor Full Stack Júnior
+🌱 Aprimorando conhecimentos em React, Node.js e Laravel
+📚 Cursando Engenharia da Computação
+💡 Criando projetos para aprender e evoluir
+🚀 Buscando transformar conhecimento em soluções reais
+```
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-caique-martins">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://caiqueportifolioonline.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Caique07sp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💻 Construindo, aprendendo e evoluindo todos os dias.</i>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
