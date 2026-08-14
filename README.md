@@ -68,28 +68,13 @@ Atualmente trabalho principalmente com:
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Caique07sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique07sp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caique07sp&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Caique07sp&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caique07sp&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
-> 🔐 **Métricas privadas inclusas** — as estatísticas consideram também contribuições de repositórios privados quando disponíveis.
-
+<p align="center"> <a href="https://github.com/Caique07sp"> <img src="https://img.shields.io/github/followers/Caique07sp?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/Caique07sp"> <img src="https://img.shields.io/github/stars/Caique07sp?style=for-the-badge&logo=github" /> </a> </p>
 ---
 
 ## 🚀 Projetos em Destaque
