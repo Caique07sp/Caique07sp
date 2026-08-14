@@ -31,12 +31,8 @@ Atualmente estudo e desenvolvo projetos utilizando **JavaScript, React, Node.js,
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caique07sp&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caique07sp&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caique07sp&theme=tokyonight" />
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
 </p>
 
 ---
